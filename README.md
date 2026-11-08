@@ -1,4 +1,4 @@
-Addidas-Sales-Analysis
+# Addidas-Sales-Analysis
 An Excel based analysis for adidas sales data to uncover sales trend
 
 <img width="1119" height="1280" alt="WhatsApp Image 2026-10-13 at 13 31 20" src="https://github.com/user-attachments/assets/fcb5e5b0-aa56-4ab6-8d4f-d987da2200e8" />
